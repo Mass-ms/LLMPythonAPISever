@@ -152,6 +152,6 @@ cython_debug/
 #.idea/
 
 # chromaDB Folder
-.db/
+db/
 
 .vscode/
